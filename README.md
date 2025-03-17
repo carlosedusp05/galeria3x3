@@ -8,4 +8,4 @@ Projeto galeria 3x3 usando HTML e CSS, desenvolvido durante a disciplina de Ling
 * HTML
 * CSS
 * git
-& github
+& github# galeria-3x3
