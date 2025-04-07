@@ -8,7 +8,9 @@ Projeto galeria 3x3 usando HTML e CSS, desenvolvido durante a disciplina de Ling
 * HTML
 * CSS
 * git
-& github# galeria-3x3
-# galeria3x3
-# galeria3x3
-# galeria3x3
+& github
+
+## Autor
+[Carlos Eduardo](https://www.linkedin.com/in/carlos-eduardo-silva-pereira-a2413b353/)
+
+
